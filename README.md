@@ -9,6 +9,7 @@ Materials for [AACL2022](https://www.aacl2022.org/Program/tutorials) tutorial: E
 
 Knowledge graph construction which aims to extract knowledge from the text corpus has appealed to the NLP community researchers. Previous decades have witnessed the remarkable progress of knowledge graph construction on the basis of neural models; however,  those models often cost massive computation or labeled data resources and suffer from unstable inference accounting for biased or adversarial samples. Recently, numerous approaches have been explored to mitigate the efficiency and robustness issues for knowledge graph construction, such as prompt learning and adversarial training. In this tutorial, we aim at bringing interested NLP researchers up to speed about the recent and ongoing techniques for efficient and robust knowledge graph construction. Additionally, our goal is to provide a systematic and up-to-date overview of these methods and reveal new research opportunities to the audience.
 
+
 #### If you find this tutorial helpful for your work, please kindly cite our paper.
 
 ```
@@ -19,3 +20,6 @@ Knowledge graph construction which aims to extract knowledge from the text corpu
   year={2022}
 }
 ```
+## Tutorial Materials
+
+To be added soon.
