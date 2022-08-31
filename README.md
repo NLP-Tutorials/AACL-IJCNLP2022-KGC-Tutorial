@@ -13,7 +13,7 @@ Knowledge graph construction which aims to extract knowledge from the text corpu
 
 ```
 @inproceedings{zhang2022efficient,
-  title={Knowledge-Augmented Methods for Natural Language Processing},
+  title={Efficient and Robust Knowledge Graph Construction},
   author={Zhang, Ningyu and Gui, Tao and Nan, Guoshun},
   booktitle={Proceedings of the 2st Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing: Tutorial Abstracts},
   year={2022}
