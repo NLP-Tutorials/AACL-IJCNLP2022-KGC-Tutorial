@@ -1,4 +1,4 @@
-# AACL-IJCNLP2022_Efficient_Robust_Knowledge_Graph_Construction_Tutorial
+# AACL-IJCNLP2022_Efficient_Robust_KG_Construction_Tutorial
 
 ![](https://img.shields.io/badge/Status-building-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
 
