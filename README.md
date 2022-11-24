@@ -63,12 +63,12 @@ Knowledge graph construction which aims to extract knowledge from the text corpu
 | 09:00-10:00 | Introduction and Applications | Guoshun Nan | [\[Slides\]](/files/PART1_Introduction.pdf) |
 | 10:00-11:00 | Efficient Knowledge Graph Construction | Ningyu Zhang | [\[Slides\]](/files/PART2_Efficient_KGC.pdf) |
 | 11:00-11:50 | Robust Knowledge Graph Construction | Tao Gui | [\[Slides\]](/files/PART3_Robust_KGC.pdf) |
-| 11:50-12:00 |Summary | Meng Jiang | [\[Slides\]](/files/PART4_Conclusion.pdf) |
+| 11:50-12:00 |Summary | Ningyu Zhang | [\[Slides\]](/files/PART4_Conclusion.pdf) |
 
 
 ## Presenters
 
-## &nbsp; <img src="imgs/ningyu.jpg" width="120" align=center> &nbsp; <img src="imgs/guitao.jpg" width="120" align=center> &nbsp;  <img src="imgs/guoshun.jpg" width="120" align=center> 
+## &nbsp; <img src="imgs/ningyu.jpg" width="120" height = "150" align=center> &nbsp; <img src="imgs/guitao.jpg" width="120" height = "150" align=center> &nbsp;  <img src="imgs/guoshun.jpg" width="120" height = "150" align=center> 
 
 Ningyu Zhang &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Tao Gui &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Guoshun Nan
 
