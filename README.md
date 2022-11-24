@@ -68,7 +68,7 @@ Knowledge graph construction which aims to extract knowledge from the text corpu
 
 ## Presenters
 
-## &nbsp; <img src="imgs/ningyu.jpg" width="120" align=center> &nbsp; <img src="imgs/guitao.jpg" width="120" align=center> &nbsp;  <img src="imgs/Xiang.jpg" width="120" align=center> &nbsp; <img src="imgs/guoshun.jpg" width="120" align=center> &nbsp; <img src="imgs/Meng.jpg" width="120" align=center> &nbsp; <img src="imgs/Wenhao.jpg" width="120" align=center> 
+## &nbsp; <img src="imgs/ningyu.jpg" width="120" align=center> &nbsp; <img src="imgs/guitao.jpg" width="120" align=center> &nbsp;  <img src="imgs/guoshun.jpg" width="120" align=center> 
 
 Ningyu Zhang &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Tao Gui &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Guoshun Nan
 
