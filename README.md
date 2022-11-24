@@ -51,8 +51,13 @@ Knowledge graph construction which aims to extract knowledge from the text corpu
 
 - Template-free prompt tuning for few-shot NER, in NAACL 2022. [\[pdf\]](https://arxiv.org/abs/2109.13532)
 - Reasoning with Latent Structure Refinement for Document-Level Relation Extraction, in ACL 2020. [\[pdf\]](https://arxiv.org/abs/2005.06312)
+- TextFlint: Unified Multilingual Robustness Evaluation Toolkit for Natural Language Processing, in ACL 2021.  [\[pdf\]](https://aclanthology.org/2021.acl-demo.41/)
 - KnowPrompt: Knowledge-aware Prompt-tuning with Synergistic Optimization for Relation Extraction, in WWW 2022. [\[pdf\]](https://arxiv.org/abs/2104.07650)
 - Decoupling Knowledge from Memorization: Retrieval-augmented Prompt Learning, in NeurIPS 2022. [\[pdf\]](https://arxiv.org/abs/2205.14704)
+- AliCG: Fine-grained and Evolvable Conceptual Graph Construction for Semantic Search at Alibaba
+- DeepKE: A Deep Learning Based Knowledge Extraction Toolkit for Knowledge Base Population, in EMNLP 2022 (Demo). [\[pdf\]](https://arxiv.org/abs/2201.03335)
+- Long-tail relation extraction via knowledge graph embeddings and graph convolution networks, in NAACL 2019. [\[pdf\]](https://arxiv.org/abs/2205.14704)
+- Document-level Relation Extraction as Semantic Segmentation, in IJCAI 2021. [\[pdf\]](https://arxiv.org/abs/2205.14704)
  
 
 
