@@ -34,7 +34,7 @@ Knowledge graph construction which aims to extract knowledge from the text corpu
 - Data-Efficient Knowledge Graph Construction. CCKS2022 Tutorial  \[[ppt](https://drive.google.com/drive/folders/1xqeREw3dSiw-Y1rxLDx77r0hGUvHnuuE)\] 
 - Knowledge Informed Prompt Learning. MLNLP 2022 Tutorial (Chinese) \[[ppt](https://person.zju.edu.cn/person/attachments/2022-11/01-1668830598-859129.pdf)\] 
 
-**3. Survey:** 
+**4. Survey:** 
 
 *Knowledge Graph Construction*
 * A Survey on Deep Learning for Named Entity Recognition (TKDE, 2022) \[[paper](https://ieeexplore.ieee.org/abstract/document/9039685)\]
@@ -57,7 +57,7 @@ Knowledge graph construction which aims to extract knowledge from the text corpu
 * Low-resource Learning with Knowledge Graphs: A Comprehensive Survey (2021) \[[paper](https://arxiv.org/abs/2112.10006)\]
 
 
-**4. Reading list:**
+**5. Reading list:**
 
 - Template-free prompt tuning for few-shot NER, in NAACL 2022. [\[pdf\]](https://arxiv.org/abs/2109.13532)
 - Reasoning with Latent Structure Refinement for Document-Level Relation Extraction, in ACL 2020. [\[pdf\]](https://arxiv.org/abs/2005.06312)
