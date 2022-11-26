@@ -26,6 +26,14 @@ Knowledge graph construction which aims to extract knowledge from the text corpu
 
 **2. Video** [\[AllParts\]](https://underline.io/events/373/sessions?eventSessionId=13783)
 
+**3. Related Tutorials:**
+
+- New Frontiers of Information Extraction. NAACL 2022 Tutorial \[[ppt](https://cogcomp.seas.upenn.edu/page/tutorial.202207/)\] 
+- Less Data, More ___? Data Augmentation and Semi-Supervised Learning for Natural Language Processing. ACL 2022 Tutorial  \[[ppt](https://github.com/diyiy/ACL2022_Limited_Data_Learning_Tutorial)\] 
+- Zero- and Few-Shot NLP with Pretrained Language Models. AACL 2022 Tutorial  \[[ppt](https://github.com/allenai/acl2022-zerofewshot-tutorial)\] 
+- Data-Efficient Knowledge Graph Construction. CCKS2022 Tutorial  \[[ppt](https://drive.google.com/drive/folders/1xqeREw3dSiw-Y1rxLDx77r0hGUvHnuuE)\] 
+- Knowledge Informed Prompt Learning. MLNLP 2022 Tutorial (Chinese) \[[ppt](https://person.zju.edu.cn/person/attachments/2022-11/01-1668830598-859129.pdf)\] 
+
 **3. Survey:** 
 
 *Knowledge Graph Construction*
@@ -40,6 +48,8 @@ Knowledge graph construction which aims to extract knowledge from the text corpu
 * Few-Shot Named Entity Recognition: An Empirical Baseline Study (EMNLP 2021) \[[paper](https://aclanthology.org/2021.emnlp-main.813.pdf)\]
 * A Survey on Low-Resource Neural Machine Translation (IJCAI 2021) \[[paper](https://www.ijcai.org/proceedings/2021/0629.pdf)\]
 * Efficient Methods for Natural Language Processing: A Survey (on arxiv 2022) \[[paper](https://arxiv.org/pdf/2209.00099.pdf)\]
+* Delta Tuning: A Comprehensive Study of Parameter Efficient Methods for Pre-trained Language Models  (on arxiv 2021) \[[paper](https://arxiv.org/abs/2203.06904)\]
+* Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing  (ACM Computing Surveys 2021) \[[paper](https://arxiv.org/abs/2107.13586)\]
 
 *Low-resource Learning*
 * Generalizing from a Few Examples: A Survey on Few-shot Learning (ACM Computing Surveys, 2021) \[[paper](https://dl.acm.org/doi/10.1145/3386252)\]
@@ -51,15 +61,35 @@ Knowledge graph construction which aims to extract knowledge from the text corpu
 
 - Template-free prompt tuning for few-shot NER, in NAACL 2022. [\[pdf\]](https://arxiv.org/abs/2109.13532)
 - Reasoning with Latent Structure Refinement for Document-Level Relation Extraction, in ACL 2020. [\[pdf\]](https://arxiv.org/abs/2005.06312)
-- TextFlint: Unified Multilingual Robustness Evaluation Toolkit for Natural Language Processing, in ACL 2021.  [\[pdf\]](https://aclanthology.org/2021.acl-demo.41/)
+- Making Pre-trained Language Models Better Few-shot Learners, in ACL 2022. [\[pdf\]](https://aclanthology.org/2021.acl-long.295/)
+- PTR: Prompt Tuning with Rules for Text Classification, in Arxiv 2021. [\[pdf\]](https://arxiv.org/pdf/2105.11259.pdf)
+- Label Verbalization and Entailment for Effective Zero- and Few-Shot Relation Extraction, in EMNLP 2021. [\[pdf\]](https://aclanthology.org/2021.emnlp-main.92.pdf)
+- RelationPrompt: Leveraging Prompts to Generate Synthetic Data for Zero-Shot Relation Triplet Extraction, in EMNLP 2022 (Findings). [\[pdf\]](https://arxiv.org/abs/2203.09101)
 - KnowPrompt: Knowledge-aware Prompt-tuning with Synergistic Optimization for Relation Extraction, in WWW 2022. [\[pdf\]](https://arxiv.org/abs/2104.07650)
+- Towards Realistic Low-resource Relation Extraction: A Benchmark with Empirical Baseline Study, in EMNLP 2022 (Findings). [\[pdf\]](https://arxiv.org/pdf/2210.10678.pdf)
 - Decoupling Knowledge from Memorization: Retrieval-augmented Prompt Learning, in NeurIPS 2022. [\[pdf\]](https://arxiv.org/abs/2205.14704)
-- AliCG: Fine-grained and Evolvable Conceptual Graph Construction for Semantic Search at Alibaba
-- DeepKE: A Deep Learning Based Knowledge Extraction Toolkit for Knowledge Base Population, in EMNLP 2022 (Demo). [\[pdf\]](https://arxiv.org/abs/2201.03335)
+- AliCG: Fine-grained and Evolvable Conceptual Graph Construction for Semantic Search at Alibaba, in KDD 2021. [\[pdf\]](https://arxiv.org/pdf/2106.01686.pdf)
+- Relation Extraction as Open-book Examination: Retrieval-enhanced Prompt Tuning, in SIGIR 2022. [\[pdf\]](https://arxiv.org/abs/2205.02355)
+- LightNER: A Lightweight Tuning Paradigm for Low-resource NER via Pluggable Prompting, in COLING 2022. [\[pdf\]](https://aclanthology.org/2022.coling-1.209/)
+- PALT: Parameter-Lite Transfer of Language Models for Knowledge Graph Completion, in EMNLP 2022. [\[pdf\]](https://arxiv.org/abs/2210.13715)
+- Unified Structure Generation for Universal Information Extraction, in ACL 2022. [\[pdf\]](https://aclanthology.org/2022.acl-long.395/)
+- LasUIE: Unifying Information Extraction with Latent Adaptive Structure-aware Generative Language Model, in NeurIPS 2022. [\[pdf\]](https://openreview.net/forum?id=a8qX5RG36jd) 
+- Sequence-to-Sequence Knowledge Graph Completion and Question Answering, in ACL 2022. [\[pdf\]](https://arxiv.org/abs/2203.10321) 
+- From Discrimination to Generation: Knowledge Graph Completion with Generative Transformer, in WWW 2022 (Poster) [\[pdf\]](https://arxiv.org/abs/2202.02113)
+- Generative Knowledge Graph Construction: A Review, in EMNLP 2022. [\[pdf\]](https://arxiv.org/pdf/2210.12714.pdf) 
+- FastRE: Towards Fast Relation Extraction with Convolutional Encoder and Improved Cascade Binary Tagging Framework, in IJCAI 2022.  [\[pdf\]](https://www.ijcai.org/proceedings/2022/0583.pdf)
 - Long-tail relation extraction via knowledge graph embeddings and graph convolution networks, in NAACL 2019. [\[pdf\]](https://arxiv.org/abs/2205.14704)
 - Document-level Relation Extraction as Semantic Segmentation, in IJCAI 2021. [\[pdf\]](https://arxiv.org/abs/2205.14704)
- 
-
+- Hybrid Transformer with Multi-level Fusion for Multimodal Knowledge Graph Completion, in SIGIR 2022. [\[pdf\]](https://arxiv.org/pdf/2205.02357.pdf)
+- Good Visual Guidance Makes A Better Extractor: Hierarchical Visual Prefix for Multimodal Entity and Relation Extraction, in NAACL 2022 (Findings). [\[pdf\]](https://arxiv.org/pdf/2205.03521.pdf)
+- Neuralizing Regular Expressions for Slot Filling, in EMNLP 2021.  [\[pdf\]](https://aclanthology.org/2021.emnlp-main.747/)   
+- Event Extraction as Machine Reading Comprehension, in EMNLP 2020. [\[pdf\]](https://aclanthology.org/2020.emnlp-main.128/)  
+- RESIN: A Dockerized Schema-Guided Cross-document Cross-lingual Cross-media Information Extraction and Event Tracking System, in NAACL 2021 (demo). [\[pdf\]](https://aclanthology.org/2021.naacl-demos.16/)  
+- TextFlint: Unified Multilingual Robustness Evaluation Toolkit for Natural Language Processing, in ACL 2021.  [\[pdf\]](https://aclanthology.org/2021.acl-demo.41/)
+- DeepKE: A Deep Learning Based Knowledge Extraction Toolkit for Knowledge Base Population, in EMNLP 2022 (Demo). [\[pdf\]](https://arxiv.org/abs/2201.03335)
+- OpenNRE: An Open and Extensible Toolkit for Neural Relation Extraction, in EMNLP 2019 (demo). [\[pdf\]](https://aclanthology.org/D19-3029/)
+- OpenPrompt: An Open-source Framework for Prompt-learning, in ACL 2021 (demo). [\[pdf\]](https://aclanthology.org/2022.acl-demo.10/)
+- ZS4IE: A toolkit for Zero-Shot Information Extraction with simple Verbalizations, in NAACL 2022 (demo). [\[pdf\]](https://aclanthology.org/2022.naacl-demo.4.pdf)
 
 ## Tutorial schedule
 
