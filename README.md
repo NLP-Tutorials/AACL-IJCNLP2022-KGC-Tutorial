@@ -13,11 +13,19 @@ Knowledge graph construction which aims to extract knowledge from the text corpu
 #### If you find this tutorial helpful for your work, please kindly cite our paper.
 
 ```
-@inproceedings{zhang2022efficient,
-  title={Efficient and Robust Knowledge Graph Construction},
-  author={Zhang, Ningyu and Gui, Tao and Nan, Guoshun},
-  booktitle={Proceedings of the 2st Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing: Tutorial Abstracts},
-  year={2022}
+@inproceedings{zhang-etal-2022-efficient-robust,
+    title = "Efficient and Robust Knowledge Graph Construction",
+    author = "Zhang, Ningyu  and
+      Gui, Tao  and
+      Nan, Guoshun",
+    booktitle = "Proceedings of the 2nd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 12th International Joint Conference on Natural Language Processing: Tutorial Abstracts",
+    month = nov,
+    year = "2022",
+    address = "Taipei",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.aacl-tutorials.1",
+    pages = "1--7",
+    abstract = "Knowledge graph construction which aims to extract knowledge from the text corpus, has appealed to the NLP community researchers. Previous decades have witnessed the remarkable progress of knowledge graph construction on the basis of neural models; however, those models often cost massive computation or labeled data resources and suffer from unstable inference accounting for biased or adversarial samples. Recently, numerous approaches have been explored to mitigate the efficiency and robustness issues for knowledge graph construction, such as prompt learning and adversarial training. In this tutorial, we aim to bring interested NLP researchers up to speed on the recent and ongoing techniques for efficient and robust knowledge graph construction. Additionally, our goal is to provide a systematic and up-to-date overview of these methods and reveal new research opportunities to the audience.",
 }
 ```
 ## Tutorial Materials
