@@ -50,6 +50,7 @@ Knowledge graph construction which aims to extract knowledge from the text corpu
 * A Survey on Neural Relation Extraction (Science China Technological Sciences, 2020) \[[paper](https://link.springer.com/article/10.1007/s11431-020-1673-6)\]
 * What is Event Knowledge Graph: A Survey (TKDE, 2022) \[[paper](https://arxiv.org/abs/2112.15280)\]
 * Knowledge Extraction in Low-Resource Scenarios: Survey and Perspective (on arxiv, 2022) \[[paper](https://arxiv.org/abs/2202.08063)\]
+* Generative Knowledge Graph Construction: A Review (EMNLP, 2022) \[[paper](https://arxiv.org/pdf/2210.12714.pdf)\]
 
 *Efficient NLP*
 * A Survey on Recent Approaches for Natural Language Processing in Low-Resource Scenarios (NAACL 2021) \[[paper](https://aclanthology.org/2021.naacl-main.201.pdf)\]
