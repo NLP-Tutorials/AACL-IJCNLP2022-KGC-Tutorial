@@ -40,7 +40,7 @@ Knowledge graph construction which aims to extract knowledge from the text corpu
 - Less Data, More ___? Data Augmentation and Semi-Supervised Learning for Natural Language Processing. ACL 2022 Tutorial  \[[ppt](https://github.com/diyiy/ACL2022_Limited_Data_Learning_Tutorial)\] 
 - Zero- and Few-Shot NLP with Pretrained Language Models. AACL 2022 Tutorial  \[[ppt](https://github.com/allenai/acl2022-zerofewshot-tutorial)\] 
 - Data-Efficient Knowledge Graph Construction. CCKS2022 Tutorial  \[[ppt](https://drive.google.com/drive/folders/1xqeREw3dSiw-Y1rxLDx77r0hGUvHnuuE)\] 
-- Knowledge Informed Prompt Learning. MLNLP 2022 Tutorial (Chinese) \[[ppt](https://person.zju.edu.cn/person/attachments/2022-11/01-1668830598-859129.pdf)\] 
+- Knowledge Informed Prompt Learning. MLNLP 2022 Tutorial (Chinese) \[[ppt](https://person.zju.edu.cn/person/attachments/2022-11/01-1668830598-859129.pdf)\]\[[project](https://github.com/zjunlp/PromptKG)\]
 
 **4. Survey:** 
 
