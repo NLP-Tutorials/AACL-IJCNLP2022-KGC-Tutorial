@@ -71,7 +71,7 @@ Knowledge graph construction which aims to extract knowledge from the text corpu
 - Template-free prompt tuning for few-shot NER, in NAACL 2022. [\[pdf\]](https://arxiv.org/abs/2109.13532)
 - Reasoning with Latent Structure Refinement for Document-Level Relation Extraction, in ACL 2020. [\[pdf\]](https://arxiv.org/abs/2005.06312)
 - Making Pre-trained Language Models Better Few-shot Learners, in ACL 2022. [\[pdf\]](https://aclanthology.org/2021.acl-long.295/)
-- PTR: Prompt Tuning with Rules for Text Classification, in Arxiv 2021. [\[pdf\]](https://arxiv.org/pdf/2105.11259.pdf)
+- PTR: Prompt Tuning with Rules for Text Classification, in AI Open 2022. [\[pdf\]](https://arxiv.org/pdf/2105.11259.pdf)
 - Label Verbalization and Entailment for Effective Zero- and Few-Shot Relation Extraction, in EMNLP 2021. [\[pdf\]](https://aclanthology.org/2021.emnlp-main.92.pdf)
 - RelationPrompt: Leveraging Prompts to Generate Synthetic Data for Zero-Shot Relation Triplet Extraction, in EMNLP 2022 (Findings). [\[pdf\]](https://arxiv.org/abs/2203.09101)
 - KnowPrompt: Knowledge-aware Prompt-tuning with Synergistic Optimization for Relation Extraction, in WWW 2022. [\[pdf\]](https://arxiv.org/abs/2104.07650)
