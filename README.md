@@ -80,6 +80,7 @@ Knowledge graph construction which aims to extract knowledge from the text corpu
 - AliCG: Fine-grained and Evolvable Conceptual Graph Construction for Semantic Search at Alibaba, in KDD 2021. [\[pdf\]](https://arxiv.org/pdf/2106.01686.pdf)
 - Relation Extraction as Open-book Examination: Retrieval-enhanced Prompt Tuning, in SIGIR 2022. [\[pdf\]](https://arxiv.org/abs/2205.02355)
 - LightNER: A Lightweight Tuning Paradigm for Low-resource NER via Pluggable Prompting, in COLING 2022. [\[pdf\]](https://aclanthology.org/2022.coling-1.209/)
+- One Model for All Domains: Collaborative Domain-Prefix Tuning for Cross-Domain NER, in Arxiv 2023. [\[pdf\]](https://arxiv.org/pdf/2301.10410.pdf/)
 - PALT: Parameter-Lite Transfer of Language Models for Knowledge Graph Completion, in EMNLP 2022. [\[pdf\]](https://arxiv.org/abs/2210.13715)
 - Unified Structure Generation for Universal Information Extraction, in ACL 2022. [\[pdf\]](https://aclanthology.org/2022.acl-long.395/)
 - LasUIE: Unifying Information Extraction with Latent Adaptive Structure-aware Generative Language Model, in NeurIPS 2022. [\[pdf\]](https://openreview.net/forum?id=a8qX5RG36jd) 
